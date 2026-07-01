@@ -1,0 +1,3 @@
+MCP Validation Test
+
+This is a test commit for the MCP validation PR.
