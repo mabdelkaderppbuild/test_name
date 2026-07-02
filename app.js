@@ -1,11 +1,6 @@
-// Simple Node.js application
-console.log('Welcome to the test application!');
+const apiKey = "AIzaSyDUMMY1234567890ABCDEFG";
+const githubToken = "ghp_1234567890abcdefghijklmnopqrstuvwxyz";
+const awsAccessKey = "AKIAIOSFODNN7EXAMPLE";
+const password = "Admin@123";
 
-// Main application logic
-function main() {
-  console.log('Application started...');
-  console.log('Ready to run!');
-}
-
-// Run the application
-main();
+console.log("Testing secret scanning");
